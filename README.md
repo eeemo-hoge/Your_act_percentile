@@ -7,7 +7,7 @@ this program would show info about that.
 please use "gcc" or etc.
 and run "./a.out"
 
-## infomation imaage
+## information image
 ![description image](https://github.com/eeemo-hoge/Your_act_percentile/tree/main/images/image4.png)
 
 ## License

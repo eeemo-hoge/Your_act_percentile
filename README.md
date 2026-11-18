@@ -9,3 +9,6 @@ and run "./a.out"
 
 ## infomation imaage
 ![description image](https://github.com/eeemo-hoge/Your_act_percentile/tree/main/images/image4.png)
+
+## License
+Please refer the ![LICENSE](https://github.com/eeemo-hoge/Your_act_percentile/LICENSE)

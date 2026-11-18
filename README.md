@@ -14,3 +14,4 @@ and run "./a.out"
 Please refer the ![LICENSE](https://github.com/eeemo-hoge/Your_act_percentile/LICENSE)
 
 [description](LICENSE)
+license is "[LICENSE](LICENSE)"
